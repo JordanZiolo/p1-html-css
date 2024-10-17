@@ -6,8 +6,12 @@
   html {
     font-size: 62.5%;
   }
-  body {
+  body { 
+
     font-family: "Goldman", cursive;
+    background: url(background.jpeg);
+    background-size: 100%;
+    
   }
   
   nav {
@@ -37,3 +41,43 @@
   nav img {
     width: 5vw;
   }
+ h1 {
+  color: #ffffff;
+  margin-top: 38vb;
+  font-size: 40px;
+  text-align: center ;}
+.html-css{
+  background-color: white;
+  background-image: none;
+}
+.html-css h1 
+{
+  color: #000;
+  text-align: center;
+  margin-top: 10vb;
+}
+ img{
+width: 550px;
+margin-left: 35vb;
+margin-top: -5vb;
+ }
+h2{
+color: #000;
+text-align: right;
+font-size: 30px;
+margin-right: 55vb;
+margin-top: 10vb;
+}
+h4{
+color: #000;
+font-size: 20px;
+margin-top: -40vb;
+text-align: right;
+margin-right: 30vb;
+}
+span{
+  color: blue;
+}
+.css{
+  color: red;
+}
