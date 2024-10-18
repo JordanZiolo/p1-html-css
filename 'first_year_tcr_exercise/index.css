@@ -115,3 +115,54 @@ background-color: white;
 background-image: none;
 
 }
+.pp{
+margin-top: 25vb;
+margin-left: 10vb;
+
+}
+.ph{
+font-size: 80px;
+color: #000;
+margin-top: -50vb;
+}
+.ti{
+  color: #9920eb;
+}
+.po{
+  color: #000;
+  margin-left: 40vb;
+  margin-top: 5vb;
+}
+.pip{
+  font-size: 15px;
+margin-left: 100vb;
+
+margin-top: 0vb;
+}
+.sql{
+background-color: #000;
+background-image: none;
+
+}
+.sq{
+  margin-top: 8vb;
+  font-size: 40px;
+}
+.sx{
+  color:white ;
+  font-size: 30px;
+  margin-left: -130vb;
+  margin-top: 20vb;
+}
+.sw{
+  color: #ec600f;
+}
+.sr{
+  width: 400px;
+  margin-left: 130vb;}
+  .sd{
+font-size: 20px;
+color: white;
+margin-right: 130vb;
+margin-top: -15vb;
+  }
