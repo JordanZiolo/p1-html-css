@@ -81,3 +81,37 @@ span{
 .css{
   color: red;
 }
+.java{
+background-color: black;
+background-image: none;
+
+}
+.jv{
+width: 300px;
+margin-top: 25vb;
+margin-left: 140vb;
+}
+.jb{
+  color: white;
+  font-size: 50px;
+  margin-top: -45vb;
+}
+.jk{
+color: white;
+font-size: 30px;
+margin-top: 7vb;
+margin-left: -120vb;
+}
+.jo{
+  color: yellow;
+}
+.ju{
+font-size: 20px;
+margin-top: 2vb;
+margin-right: 95vb;
+}
+.php{
+background-color: white;
+background-image: none;
+
+}
